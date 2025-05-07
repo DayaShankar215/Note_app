@@ -1,0 +1,7 @@
+{
+  "homepage": "https://dayashankar215.github.io/Note_app/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
